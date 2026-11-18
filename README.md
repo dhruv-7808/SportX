@@ -3,6 +3,8 @@
 A modern, responsive **sports gear e-commerce frontend** built using
 **HTML, CSS, and JavaScript**.
 
+#[Live Demo](https://sportx7.netlify.app/)
+
 ## 🚀 Features
 
 -   🛒 Add to Cart with dynamic updates
